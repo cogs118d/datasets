@@ -1,6 +1,6 @@
 # COGS 118D Dataset Guide
 
-Pick one of these six datasets and use it for HW 1, HW 2 and HW 3. Every dataset has a starter Colab notebook that loads, cleans and plots the data, then leaves the analysis to you.
+Pick one of these six datasets and use it for HW 1, HW 2 and HW 3. Every dataset has a starter Colab notebook that loads, cleans and summarizes the data so you can get to know it. You do the homework analyses in the separate homework notebooks, not in the starter notebook.
 
 ## Getting started
 
